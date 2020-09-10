@@ -638,7 +638,7 @@ body {
  * ## media
  * ------------------------------------------------------------------- */
 svg, img, video embed, iframe, object {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     margin: auto;
 }
